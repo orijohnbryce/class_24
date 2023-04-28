@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px){
+    div {
+        font-size: 1.3rem;
+    }
+}
+
+.test {
+    background-color: yellow;
+    height: 40px;
+}
+
+
+.side-b {
+    margin: 15%;   
+    width: 80%;
+    height: 40px;
+}
+
+table, th, tr, td {
+    border: 1px solid red;
+    padding: 5px;
+    border-collapse: collapse;
+}
